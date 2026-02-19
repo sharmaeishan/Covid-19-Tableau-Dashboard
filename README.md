@@ -1,15 +1,15 @@
 # Covid-19-Tableau-Dashboard
 This project presents an interactive COVID-19 dashboard built using Tableau to analyze the pandemic’s impact across India. It includes a state-wise death map, age and gender distribution charts, and a time-series line graph for confirmed, recovered, and death cases.
 
-COVID-19 India Dashboard | Tableau Data Visualization Project
+ # COVID-19 India Dashboard | Tableau Data Visualization Project
 
 An interactive COVID-19 dashboard built using Tableau to analyze the impact of the pandemic across India. This project integrates geographic, demographic, vaccination, and testing data to provide a comprehensive and data-driven view of the COVID-19 situation.
 
-Project Overview
+# Project Overview
 
 The objective of this project is to transform raw COVID-19 datasets into meaningful insights using data visualization techniques. The dashboard enables users to analyze state-wise deaths, track confirmed, recovered, and death trends over time, understand age-group and gender distribution, compare vaccination progress, and evaluate testing capacity and healthcare infrastructure.
 
-Dashboard Components
+# Dashboard Components
 
 State-wise Death Map: A filled map of India displaying total deaths per state using color intensity for geographic comparison.
 
@@ -27,12 +27,12 @@ ICMR Testing Labs: State-wise number of testing laboratories under the Indian Co
 
 Vaccine-wise Dose Distribution: Comparison of doses administered by manufacturers such as Serum Institute of India and Bharat Biotech.
 
-Tools and Technologies
+# Tools and Technologies
 
 Tableau for dashboard development and visualization
 Indian state boundary shapefile (.shp) for mapping
 Public COVID-19 datasets for analysis
 
-Project Scope
+# Project Scope
 
 This project demonstrates geographic analysis, time-series analysis, demographic breakdown, public health analytics, and visual storytelling using data.
